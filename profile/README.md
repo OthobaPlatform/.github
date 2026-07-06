@@ -42,14 +42,6 @@ Our goal is to build **scalable, event-driven systems** that connect businesses 
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Copilot CI](https://img.shields.io/badge/Copilot_CI-24292F?style=for-the-badge&logo=githubactions&logoColor=white)
 
-## 📂 Key Repositories
-
-| Repository | Description |
-|---|---|
-| [.github](https://github.com/OthobaPlatform/.github) | Organization profile for OthobaPlatform |
-| [vision-emporium-loyalty-system](https://github.com/OthobaPlatform/vision-emporium-loyalty-system) | Vision Emporium Loyalty System - Serverless customer loyalty and rewards platform |
-| [Weekly-Report-Generator](https://github.com/OthobaPlatform/Weekly-Report-Generator) | Public repository |
-| [othoba-connect](https://github.com/OthobaPlatform/othoba-connect) | Public repository |
 
 ## 🤝 Collaboration
 We welcome collaboration, integration requests, and improvement ideas.
