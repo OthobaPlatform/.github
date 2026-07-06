@@ -1,42 +1,51 @@
-# Othoba Tech Platform
+# 🌐 OthobaPlatform
 
-**OthobaPlatform** is the engineering organization behind Othoba's digital commerce ecosystem.
+> **Empowering retailers and consumers with scalable, cloud-native e-commerce solutions for Bangladesh and beyond.**
+> We deliver seamless digital experiences through modular microservices, event-driven architecture, and modern engineering practices.
 
-We build and operate production-grade systems across marketplace operations, commerce enablement, automation, and internal tooling.
+## 🚀 Mission
+OthobaPlatform is dedicated to transforming retail with innovation and simplicity.
+Our goal is to build **scalable, event-driven systems** that connect businesses and consumers while ensuring reliability, speed, and sustainable growth.
 
-## Engineering focus
+## 🛠️ Technology Stack
 
-- Scalable commerce and marketplace services
-- Platform integrations and workflow automation
-- Data-driven operational tooling and reporting
-- Reliability, observability, and secure delivery
+### Backend & Services
+- C# / .NET (6-10)
+- ASP.NET Core
 
-## Public repositories
+### Cloud & Infrastructure (AWS)
+- EC2, EKS, S3
+- SNS, SQS, Lambda
+- CloudFormation, CloudWatch
 
-| Repository | Scope | Status |
-|---|---|---|
-| [vision-emporium-loyalty-system](https://github.com/OthobaPlatform/vision-emporium-loyalty-system) | Serverless loyalty and rewards platform | Active |
-| [Weekly-Report-Generator](https://github.com/OthobaPlatform/Weekly-Report-Generator) | Automated reporting pipeline | Active |
-| [othoba-connect](https://github.com/OthobaPlatform/othoba-connect) | Connectivity and integration utilities | Active |
+### Data & Messaging
+- RabbitMQ (MQ)
+- Redis OSS (Valkey)
+- Microsoft SQL Server (MSSQL)
+- PostgreSQL
+- DynamoDB
 
-## How we build
+### Mobile & Client Platforms
+- Native Android
+- iOS (CMP iOS)
+- Flutter
 
-- **Architecture:** API-first, event-friendly, modular services
-- **Delivery:** CI-driven workflows, versioned releases, iterative rollout
-- **Quality:** code reviews, linting, tests, and measurable standards
-- **Operations:** monitoring-first mindset with incident-aware practices
-- **Security:** least-privilege access and secure-by-default engineering
+### Engineering Tooling
+- Visual Studio 2026
+- Kiro IDE and Kiro CLI
+- GitHub Copilot
+- Copilot CI
 
-## Collaboration
+## 📂 Key Repositories
+- [vision-emporium-loyalty-system](https://github.com/OthobaPlatform/vision-emporium-loyalty-system)
+- [Weekly-Report-Generator](https://github.com/OthobaPlatform/Weekly-Report-Generator)
+- [othoba-connect](https://github.com/OthobaPlatform/othoba-connect)
 
-We welcome issue reports, improvement ideas, and integration requests.
+## 🤝 Collaboration
+We welcome collaboration, integration requests, and improvement ideas.
+Please open an issue in the relevant repository with clear technical context.
 
-1. Open an issue in the relevant repository.
-2. Include reproducible context or technical requirements.
-3. A maintainer will triage and respond.
-
-## Organization
-
+## 📫 Connect
 - Website: [othoba.com](https://othoba.com)
 - GitHub: [github.com/OthobaPlatform](https://github.com/OthobaPlatform)
 - Location: Bangladesh
