@@ -10,31 +10,37 @@ Our goal is to build **scalable, event-driven systems** that connect businesses 
 ## 🛠️ Technology Stack
 
 ### Backend & Services
-- C# / .NET (6-10)
-- ASP.NET Core
+[![Backend](https://skillicons.dev/icons?i=cs,dotnet)](https://github.com/tandpfun/skill-icons)
 
 ### Cloud & Infrastructure (AWS)
-- EC2, EKS, S3
-- SNS, SQS, Lambda
-- CloudFormation, CloudWatch
+[![Cloud](https://skillicons.dev/icons?i=aws)](https://github.com/tandpfun/skill-icons)
+
+![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
+![EKS](https://img.shields.io/badge/EKS-FF9900?style=for-the-badge&logo=amazon-eks&logoColor=white)
+![S3](https://img.shields.io/badge/S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
+![SNS](https://img.shields.io/badge/SNS-FF4F8B?style=for-the-badge&logo=amazonsns&logoColor=white)
+![SQS](https://img.shields.io/badge/SQS-FF4F8B?style=for-the-badge&logo=amazonsqs&logoColor=white)
+![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
+![CloudFormation](https://img.shields.io/badge/CloudFormation-FF4F8B?style=for-the-badge&logo=awscloudformation&logoColor=white)
+![CloudWatch](https://img.shields.io/badge/CloudWatch-FF4F8B?style=for-the-badge&logo=amazoncloudwatch&logoColor=white)
 
 ### Data & Messaging
-- RabbitMQ (MQ)
-- Redis OSS (Valkey)
-- Microsoft SQL Server (MSSQL)
-- PostgreSQL
-- DynamoDB
+[![Data](https://skillicons.dev/icons?i=postgres,mysql,redis,rabbitmq)](https://github.com/tandpfun/skill-icons)
+
+![MSSQL](https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![DynamoDB](https://img.shields.io/badge/DynamoDB-4053D6?style=for-the-badge&logo=amazondynamodb&logoColor=white)
+![Valkey](https://img.shields.io/badge/Valkey-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 ### Mobile & Client Platforms
-- Native Android
-- iOS (CMP iOS)
-- Flutter
+[![Mobile](https://skillicons.dev/icons?i=androidstudio,flutter,swift)](https://github.com/tandpfun/skill-icons)
 
 ### Engineering Tooling
-- Visual Studio 2026
-- Kiro IDE and Kiro CLI
-- GitHub Copilot
-- Copilot CI
+[![Tooling](https://skillicons.dev/icons?i=visualstudio,github)](https://github.com/tandpfun/skill-icons)
+
+![Kiro IDE](https://img.shields.io/badge/Kiro_IDE-111111?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Kiro CLI](https://img.shields.io/badge/Kiro_CLI-111111?style=for-the-badge&logo=amazonaws&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=githubcopilot&logoColor=white)
+![Copilot CI](https://img.shields.io/badge/Copilot_CI-24292F?style=for-the-badge&logo=githubactions&logoColor=white)
 
 ## 📂 Key Repositories
 - [vision-emporium-loyalty-system](https://github.com/OthobaPlatform/vision-emporium-loyalty-system)
